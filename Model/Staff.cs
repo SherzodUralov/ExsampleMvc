@@ -3,9 +3,9 @@
 /// <summary>
 /// Summary description for Class1
 /// </summary>
-public class Class1
+public class Staff
 {
-	public Class1()
+	public Staff()
 	{
 		//
 		// TODO: Add constructor logic here
