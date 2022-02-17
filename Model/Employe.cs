@@ -8,7 +8,7 @@ namespace ExsampleMvc.Model
     public class Employe
     {
         public int EmployeID { get; set; }
-        public String FirstName { get; set; }
+        public string FirstName { get; set; }
         public string LastName { get; set; }
     }
 }
